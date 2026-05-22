@@ -2,3 +2,4 @@
 ## A .zip file about Arknights personal local server. 
 ## Extract the file then follow the guidance in it to develop the server locally. 
 ## You MUST download "Bandizip" and "MuMu Player" before starting the development!
+[Click here to download}](https://pan.quark.cn/s/46e222ab08cd?pwd=xb3y)
